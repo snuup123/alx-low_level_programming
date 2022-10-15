@@ -5,3 +5,4 @@ generate the assembly code of a code
 C program with puts
 C program with printf
 print the size of various types on the computer
+generate the assembly code of a C code
