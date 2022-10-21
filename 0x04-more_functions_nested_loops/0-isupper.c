@@ -2,10 +2,10 @@
 
 /**
 * _isupper - uppercase letters
-* @c: character to be tested
+* @c: character to be teste
+* 
 * Return: 0 or 1
 */
-
 int _isupper(int c)
 
 {
