@@ -1,4 +1,5 @@
 #include "main.h"
+#include "MAIN.H"                                                                                                                                                         
 
 /**
 * _isupper - checks if it is a upperharcater or not
