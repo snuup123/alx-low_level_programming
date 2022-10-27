@@ -37,3 +37,7 @@ char *rot13(char *str)
 	break;
 }
 }
+	indx1++;
+}
+	return (str);
+}
